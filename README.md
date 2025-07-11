@@ -49,7 +49,7 @@ Security is not a product, but a process - Bruce Schneier
 
 ### 💼 Professional Experience & Achievements
 
-- 👨‍💼 **Team Leader** - Banking automation software development (OOP)
+- 👨‍💼 **Team Leader** - Banking automation software development 
 - 🏦 **Financial Software Architect** - Critical business data systems design
 - 📊 **Business Intelligence Developer** - KPI, inventory, sales analysis & ML projections
 - 🔒 **Ethical Hacking Specialist** - Malware development for security research
