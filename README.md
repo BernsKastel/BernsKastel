@@ -53,7 +53,7 @@ Security is not a product, but a process - Bruce Schneier
 - 🏦 **Financial Software Architect** - Critical business data systems design
 - 📊 **Business Intelligence Developer** - KPI, inventory, sales analysis & ML projections
 - 🔒 **Ethical Hacking Specialist** - Malware development for security research
-- 🔍 **Digital Forensics Expert** - Data recovery and forensic analysis
+- 🔍 **Digital Forensics ** - Data recovery and forensic analysis
 - 📜 **ISO 27001** certified professional
 - 🎯 leading high-impact security & development projects
 - 💡 **Specialized in:** Critical systems security & business intelligence
