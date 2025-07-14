@@ -78,6 +78,7 @@ Security is not a product, but a process - Bruce Schneier
 - 🔬 Quantum Cryptography & Post-Quantum Security
 - 🎨 Advanced Digital Forensics Techniques
 - 🛡️ Next-Gen Threat Intelligence & APT Analysis
+-  <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/5aa5edd5-8ca0-457f-a619-0370c4ef6b01" /> Neural Networks
 
 ---
 
