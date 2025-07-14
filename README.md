@@ -79,6 +79,7 @@ Security is not a product, but a process - Bruce Schneier
 - 🎨 Advanced Digital Forensics Techniques
 - 🛡️ Next-Gen Threat Intelligence & APT Analysis
 -  <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/5aa5edd5-8ca0-457f-a619-0370c4ef6b01" /> Neural Networks
+-  <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/9a609a22-5bd5-45a4-a31a-f077ba8837f9" /> ISO/IEC 27000 lead auditor
 
 ---
 
